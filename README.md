@@ -1,6 +1,6 @@
 ## Flugsvamp 4.0: En kraftfull och användarvänlig sökmotor för det djupa nätet
 
-#### http://fs4isvbujof355wj3hhsqahpvmwwjaq3s4mac4yrufrl26pxbzqjvzid.onion
+### http://fs4isvbujof355wj3hhsqahpvmwwjaq3s4mac4yrufrl26pxbzqjvzid.onion
 
 ### Nyheter i Flugsvamp 4.0
 
@@ -37,7 +37,6 @@ Det är viktigt att komma ihåg att det djupa nätet kan vara en farlig plats. V
 
 ### Länkar
 
-* [Flugsvamp 4.0](https://flugsvamp.com/)
 * [Tor Browser](https://www.torproject.org/download/)
 
 ## Sammanfattning
